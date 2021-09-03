@@ -6,7 +6,7 @@
     "url": "https://github.com/arkime/arkime.git"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.16.1",
     "iptrie": "http://github.com/awick/node-iptrie/tarball/nodev12",
     "serve-favicon": "^2.5.0"
   },
