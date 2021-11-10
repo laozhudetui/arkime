@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 MAINTAINER Andy Wick <andy.wick@oath.com>
 
 RUN apt-get update && \
