@@ -1,4 +1,4 @@
-FROM centos:7.7.1908
+FROM centos:centos7
 MAINTAINER Andy Wick <andy.wick@oath.com>
 
 RUN \
