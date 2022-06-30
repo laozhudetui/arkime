@@ -35,7 +35,7 @@
     "natives": "^1.1.6",
     "notifme-sdk": "^1.10.0",
     "on-headers": "^1.0.2",
-    "passport": "^0.3.2",
+    "passport": "^0.6.0",
     "passport-http": "^0.3.0",
     "pug": "^3.0.1",
     "request": "^2.88.2",
