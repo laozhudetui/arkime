@@ -8,7 +8,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.9.1",
     "async": "^2.6.3",
-    "axios": "^0.21.1",
+    "axios": "^1.6.4",
     "body-parser": "^1.19.0",
     "bson": "^1.1.5",
     "chalk": "^4.1.0",
@@ -41,7 +41,7 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "splunk-sdk": "^1.9.0",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.1.7",
     "stylus": "^0.54.8",
     "unzipper": "^0.10.11",
     "uuidv4": "^5.0.1",
